@@ -22,7 +22,8 @@ ImageNet 数据集
 前向传播 forward
 
 反向传播 backward
-    梯度下降 gradient descent
+    梯度下降 gradient descen
+
 
 
 
