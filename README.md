@@ -15,9 +15,9 @@ deeplearing_demo
 
 ImageNet 数据集
 
-得分函数 f(x)
+得分函数 $f(x) = Wx + b$  
 
-损失函数 L(x)
+损失函数 $L(x)$
 
 前向传播 forward
 
